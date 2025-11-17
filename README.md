@@ -16,4 +16,4 @@ berikut tampilan tampilan coding dan running:
 ![alt image](https://github.com/MugiMPambdi/Tugas-Mtk-Diskrit-Pert.9/blob/c90309ca0407b93b90ca0954315c8a701e4533e0/FOTO/ssdiskrit1.png)
 ![alt image](https://github.com/MugiMPambdi/Tugas-Mtk-Diskrit-Pert.9/blob/f0a5c436b7a5b831789e191dad3c44f6606f2119/FOTO/ssdiskrit2.png)
 ![alt image](https://github.com/MugiMPambdi/Tugas-Mtk-Diskrit-Pert.9/blob/48591049e7d52f2c3b575e4049b8dc4eafa7f1f3/FOTO/ssrundiskrit1.png)
-![alt image]()
+![alt image](https://github.com/MugiMPambdi/Tugas-Mtk-Diskrit-Pert.9/blob/8b1af39b2b734d66c78845f1cc783fd133c53004/FOTO/ssrundiskrit2.png)
