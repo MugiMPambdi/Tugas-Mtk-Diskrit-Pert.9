@@ -13,7 +13,7 @@ Contoh 1: Dapatkan Semua Kombinasi Panjang 2
        2: Kombinasi Dari Daftar Yang Tidak Diurutkan
        3: Kombinasi Dengan Pengulangan
 berikut tampilan tampilan coding dan running:
-![alt image]()
+![alt image](https://github.com/MugiMPambdi/Tugas-Mtk-Diskrit-Pert.9/blob/c90309ca0407b93b90ca0954315c8a701e4533e0/FOTO/ssdiskrit1.png)
 ![alt image]()
 ![alt image]()
 ![alt image]()
