@@ -6,7 +6,7 @@ itertools untuk menghasilkannya.
 
 Contoh 1: Dapatkan Semua Permutasi Daftar
        
-       2: Permutasi Dengan Panjang Tertentu
+           2: Permutasi Dengan Panjang Tertentu
 
 ===KOMBINASI===
 Kombinasi adalah cara untuk memilih elemen di mana urutannya tidak penting. Misalnya, 
