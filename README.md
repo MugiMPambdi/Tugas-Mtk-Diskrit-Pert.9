@@ -5,6 +5,7 @@ dua permutasi yang berbeda. Python menawarkan  metode permutations() dalam  modu
 itertools untuk menghasilkannya. 
 
 Contoh 1: Dapatkan Semua Permutasi Daftar
+       
        2: Permutasi Dengan Panjang Tertentu
 
 ===KOMBINASI===
@@ -13,7 +14,9 @@ Kombinasi adalah cara untuk memilih elemen di mana urutannya tidak penting. Misa
 combinations() untuk tujuan ini. 
 
 Contoh 1: Dapatkan Semua Kombinasi Panjang 2 
+       
        2: Kombinasi Dari Daftar Yang Tidak Diurutkan
+      
        3: Kombinasi Dengan Pengulangan
        
 berikut tampilan tampilan coding dan running:
